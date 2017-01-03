@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Android Joke Library</string>
+    <string name="no_joke_error_string" translatable="true">Unable to find a Joke!</string>
+    <string name="intent_joke_extra" translatable="false">Joke</string>
+</resources>
